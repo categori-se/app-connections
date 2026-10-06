@@ -1,0 +1,8 @@
+{
+  "name": "categori-app-connections-response",
+  "version": "0.1.0a2",
+  "language": "python",
+  "private": false,
+  "platform": "python3.11+",
+  "license": "Apache-2.0"
+}
