@@ -1,0 +1,16 @@
+{
+  "name": "@categori/app-connections-streams",
+  "version": "0.1.0-alpha.1",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "Apache-2.0"
+}
