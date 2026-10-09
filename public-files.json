@@ -15,7 +15,12 @@
   "streams/LICENSE",
   "streams/NOTICE",
   "streams/README.md",
+  "streams/download.mjs",
   "streams/index.mjs",
+  "streams/object-download.mjs",
   "streams/package.json",
+  "streams/private-object.mjs",
+  "streams/test/download.test.mjs",
+  "streams/test/private-object.test.mjs",
   "streams/test/response.test.mjs"
 ]
